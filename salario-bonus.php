@@ -17,4 +17,5 @@ echo "TOTAL = R$ " . number_format($salario, 2, '.',"") . "\n";
 
 
 
+
 ?>
